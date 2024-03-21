@@ -12,16 +12,18 @@ I went through the following concepts while doing the following python machine l
 - Preparing Data
 - K-Nearest Neighbors
 - KNN Implementation
-- Naive Bayes
 - Naive Bayes Implementation
-- Logistic Regression
-- Log Regression Implementation
-- Support Vector Machine
-- SVM Implementation
-- Neural Networks
-- Tensorflow
+- Logistic Regression Implementation
+- Support Vector Machine Implementation
 - Classification NN using Tensorflow
-- Linear Regression
+- Linear Regression Basic Implementation
+- Lin Regression implementation using a Neuron
+- Regression NN using Tensorflow
+- XGBoost (GBM)
+- Random Forests
+- Decisions Trees
+- K-Means Clustering and Principal Component Analysis (PCA) Implementations
+- Hierarchical clustering
 - Lin Regression Implementation
 - Lin Regression using a Neuron
 - Regression NN using Tensorflow
